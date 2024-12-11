@@ -1,0 +1,6 @@
+streamlit
+pandas
+textblob
+xlrd
+openpxl
+nltk
